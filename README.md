@@ -1,0 +1,1 @@
+A simple Web app created using Create React App.
